@@ -12,7 +12,7 @@ h2{
 }
 
 body{
-    background-image: url(../img/Imagen-fondo-principal.jpg);
+    background: linear-gradient(to right,#e66465, #9198e5); 
 }
 
 .image{
