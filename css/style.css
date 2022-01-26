@@ -144,3 +144,10 @@ footer{
     100%{background: crimson;left: 0px; top: 0px;}
 }
 
+.ubication{
+    text-align: center;
+    border: 2px solid black;
+    width: 700px;
+
+}
+
